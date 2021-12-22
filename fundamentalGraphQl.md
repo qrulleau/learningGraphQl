@@ -47,6 +47,7 @@ type Post {
 the bracket express that a person can write multiple post
 
 **Query**
+
 query : information send to a server to express data its needs.
 
 ex :
@@ -92,3 +93,7 @@ mutation {
   }
 }
 ```
+
+**subscriptions**
+
+it's to have a real-time connection to the server in order to get immediatly informed about important events
